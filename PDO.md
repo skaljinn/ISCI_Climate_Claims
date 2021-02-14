@@ -1,3 +1,8 @@
+---
+title: <Examining Claims Regarding Pacific Decadal Oscillation and Climate Change>
+layout: default
+nav_order: 2
+---
 # Examining Claims Regarding Pacific Decadal Oscillation and Climate Change
 This article titled *"The Pacific Decadal Oscillation (PDO): Key to the Global Warming Debate?"* proposes that the increasing temperatures, specifically in the northern hemisphere, are not primarily attributed to carbon emissions from mankind, but rather a phenomenon known as Pacific Decadal Oscillation (PDO). The author defines PDO as an “internal switch between two slightly different circulation patterns that occurs every 30 years or so in the North Pacific Ocean” with alternating positive (warm) and negative (cool) phases (Spencer, 2008). Spencer backs up this claim by explaining that changes in weather circulation patterns, like PDO, can result in changes in global cloud coverage. Since cloud coverage has the largest internal control global temperatures (through their ability to reflect sunlight), the author suggests that changes in cloudiness associated with the PDO can explain most of the climate change we’ve seen in the last 100 years (Spencer, 2008). This article is of interest due to the particular reason that it suggests a contrary major cause of global temperature rise and at first glance provides seemingly credible and convincing evidence.
 
